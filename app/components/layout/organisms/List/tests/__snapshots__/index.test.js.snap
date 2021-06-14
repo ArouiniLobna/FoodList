@@ -1,0 +1,246 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> Should render and match the snapshot 1`] = `
+<div
+  class="List__SList-sc-143fwte-0 fWFyFl"
+>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          Name
+        </th>
+        <th>
+          is Delicious 
+        </th>
+        <th>
+          is Healthy
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        aria-labelledby="label-e5d9d9f5"
+        class="ListItem__SListItem-y53y74-0 cbkTsJ"
+        role="group"
+      >
+        <td>
+          <h5
+            id="label-e5d9d9f5"
+          >
+            ice cream
+          </h5>
+        </td>
+        <td>
+          <label
+            class="CheckBox__HiddenLabel-sc-3ds2-0 gnQLZV"
+          >
+            <div
+              class="CheckBox__CheckboxContainer-sc-3ds2-1 hgbZRk"
+            >
+              <input
+                checked=""
+                class="CheckBox__HiddenCheckbox-sc-3ds2-3 chOmlZ"
+                data-name="isDelicious"
+                type="checkbox"
+              />
+              <div
+                class="CheckBox__StyledCheckbox-sc-3ds2-4 gjKREU"
+              >
+                <svg
+                  class="CheckBox__Icon-sc-3ds2-2 dpDFqD"
+                  viewBox="0 0 24 24"
+                >
+                  <polyline
+                    points="20 6 9 17 4 12"
+                  />
+                </svg>
+              </div>
+            </div>
+            <span>
+              is Delicious
+            </span>
+          </label>
+        </td>
+        <td>
+          <label
+            class="CheckBox__HiddenLabel-sc-3ds2-0 gnQLZV"
+          >
+            <div
+              class="CheckBox__CheckboxContainer-sc-3ds2-1 hgbZRk"
+            >
+              <input
+                class="CheckBox__HiddenCheckbox-sc-3ds2-3 chOmlZ"
+                data-name="isHealthy"
+                type="checkbox"
+              />
+              <div
+                class="CheckBox__StyledCheckbox-sc-3ds2-4 eVKOMr"
+              >
+                <svg
+                  class="CheckBox__Icon-sc-3ds2-2 dpDFqD"
+                  viewBox="0 0 24 24"
+                >
+                  <polyline
+                    points="20 6 9 17 4 12"
+                  />
+                </svg>
+              </div>
+            </div>
+            <span>
+              is Healthy
+            </span>
+          </label>
+        </td>
+      </tr>
+      <tr
+        aria-labelledby="label-a9ba692b"
+        class="ListItem__SListItem-y53y74-0 cbkTsJ"
+        role="group"
+      >
+        <td>
+          <h5
+            id="label-a9ba692b"
+          >
+            pizza
+          </h5>
+        </td>
+        <td>
+          <label
+            class="CheckBox__HiddenLabel-sc-3ds2-0 gnQLZV"
+          >
+            <div
+              class="CheckBox__CheckboxContainer-sc-3ds2-1 hgbZRk"
+            >
+              <input
+                checked=""
+                class="CheckBox__HiddenCheckbox-sc-3ds2-3 chOmlZ"
+                data-name="isDelicious"
+                type="checkbox"
+              />
+              <div
+                class="CheckBox__StyledCheckbox-sc-3ds2-4 gjKREU"
+              >
+                <svg
+                  class="CheckBox__Icon-sc-3ds2-2 dpDFqD"
+                  viewBox="0 0 24 24"
+                >
+                  <polyline
+                    points="20 6 9 17 4 12"
+                  />
+                </svg>
+              </div>
+            </div>
+            <span>
+              is Delicious
+            </span>
+          </label>
+        </td>
+        <td>
+          <label
+            class="CheckBox__HiddenLabel-sc-3ds2-0 gnQLZV"
+          >
+            <div
+              class="CheckBox__CheckboxContainer-sc-3ds2-1 hgbZRk"
+            >
+              <input
+                class="CheckBox__HiddenCheckbox-sc-3ds2-3 chOmlZ"
+                data-name="isHealthy"
+                type="checkbox"
+              />
+              <div
+                class="CheckBox__StyledCheckbox-sc-3ds2-4 eVKOMr"
+              >
+                <svg
+                  class="CheckBox__Icon-sc-3ds2-2 dpDFqD"
+                  viewBox="0 0 24 24"
+                >
+                  <polyline
+                    points="20 6 9 17 4 12"
+                  />
+                </svg>
+              </div>
+            </div>
+            <span>
+              is Healthy
+            </span>
+          </label>
+        </td>
+      </tr>
+      <tr
+        aria-labelledby="label-ze128a47"
+        class="ListItem__SListItem-y53y74-0 llVrwU"
+        role="group"
+      >
+        <td>
+          <h5
+            id="label-ze128a47"
+          >
+            spinach
+          </h5>
+        </td>
+        <td>
+          <label
+            class="CheckBox__HiddenLabel-sc-3ds2-0 gnQLZV"
+          >
+            <div
+              class="CheckBox__CheckboxContainer-sc-3ds2-1 hgbZRk"
+            >
+              <input
+                class="CheckBox__HiddenCheckbox-sc-3ds2-3 chOmlZ"
+                data-name="isDelicious"
+                type="checkbox"
+              />
+              <div
+                class="CheckBox__StyledCheckbox-sc-3ds2-4 eVKOMr"
+              >
+                <svg
+                  class="CheckBox__Icon-sc-3ds2-2 dpDFqD"
+                  viewBox="0 0 24 24"
+                >
+                  <polyline
+                    points="20 6 9 17 4 12"
+                  />
+                </svg>
+              </div>
+            </div>
+            <span>
+              is Delicious
+            </span>
+          </label>
+        </td>
+        <td>
+          <label
+            class="CheckBox__HiddenLabel-sc-3ds2-0 gnQLZV"
+          >
+            <div
+              class="CheckBox__CheckboxContainer-sc-3ds2-1 hgbZRk"
+            >
+              <input
+                class="CheckBox__HiddenCheckbox-sc-3ds2-3 chOmlZ"
+                data-name="isHealthy"
+                type="checkbox"
+              />
+              <div
+                class="CheckBox__StyledCheckbox-sc-3ds2-4 eVKOMr"
+              >
+                <svg
+                  class="CheckBox__Icon-sc-3ds2-2 dpDFqD"
+                  viewBox="0 0 24 24"
+                >
+                  <polyline
+                    points="20 6 9 17 4 12"
+                  />
+                </svg>
+              </div>
+            </div>
+            <span>
+              is Healthy
+            </span>
+          </label>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

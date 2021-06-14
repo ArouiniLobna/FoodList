@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListItem /> Should render and match the snapshot 1`] = `
+<tr
+  aria-labelledby="label-3434"
+  class="ListItem__SListItem-y53y74-0 bYNREK"
+  role="group"
+>
+  <td>
+    <h5
+      id="label-3434"
+    >
+      dummy food
+    </h5>
+  </td>
+  <td>
+    <label
+      class="CheckBox__HiddenLabel-sc-3ds2-0 gnQLZV"
+    >
+      <div
+        class="CheckBox__CheckboxContainer-sc-3ds2-1 hgbZRk"
+      >
+        <input
+          class="CheckBox__HiddenCheckbox-sc-3ds2-3 chOmlZ"
+          data-name="isDelicious"
+          type="checkbox"
+        />
+        <div
+          class="CheckBox__StyledCheckbox-sc-3ds2-4 eVKOMr"
+        >
+          <svg
+            class="CheckBox__Icon-sc-3ds2-2 dpDFqD"
+            viewBox="0 0 24 24"
+          >
+            <polyline
+              points="20 6 9 17 4 12"
+            />
+          </svg>
+        </div>
+      </div>
+      <span>
+        is Delicious
+      </span>
+    </label>
+  </td>
+  <td>
+    <label
+      class="CheckBox__HiddenLabel-sc-3ds2-0 gnQLZV"
+    >
+      <div
+        class="CheckBox__CheckboxContainer-sc-3ds2-1 hgbZRk"
+      >
+        <input
+          checked=""
+          class="CheckBox__HiddenCheckbox-sc-3ds2-3 chOmlZ"
+          data-name="isHealthy"
+          type="checkbox"
+        />
+        <div
+          class="CheckBox__StyledCheckbox-sc-3ds2-4 gjKREU"
+        >
+          <svg
+            class="CheckBox__Icon-sc-3ds2-2 dpDFqD"
+            viewBox="0 0 24 24"
+          >
+            <polyline
+              points="20 6 9 17 4 12"
+            />
+          </svg>
+        </div>
+      </div>
+      <span>
+        is Healthy
+      </span>
+    </label>
+  </td>
+</tr>
+`;
